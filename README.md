@@ -5,3 +5,4 @@
 - 📫 How to reach me: [https://www.linkedin.com/in/marcmouries/]
 - 👯 I’m looking to collaborate on ServiceNow projects...
 - 💬 Ask me about Low-Code, Pro-Code with ServiceNow
+- Born in 🇫🇷 living in 🇺🇸 
